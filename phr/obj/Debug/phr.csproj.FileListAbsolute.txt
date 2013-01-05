@@ -1,0 +1,7 @@
+E:\Jebez\My project\phr\phr\bin\phr.dll
+E:\Jebez\My project\phr\phr\bin\phr.pdb
+E:\Jebez\My project\phr\phr\bin\EntityFramework.dll
+E:\Jebez\My project\phr\phr\bin\EntityFramework.xml
+E:\Jebez\My project\phr\phr\obj\Debug\ResolveAssemblyReference.cache
+E:\Jebez\My project\phr\phr\obj\Debug\phr.dll
+E:\Jebez\My project\phr\phr\obj\Debug\phr.pdb

@@ -1,0 +1,45 @@
+body 
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+#login_container 
+{
+    margin: 0px auto;
+    padding: 0px 50px;
+    font: normal 13px/1.5 Arial;
+}
+
+#login_container h2
+{
+    padding: 0px;
+    margin: 5px;
+    color: #3399EE;
+    font: normal 32px/1.5 "Segoe UI Light"
+}
+
+#login_title
+{
+    background-color: #F9F988;
+    background: -webkit-linear-gradient(top, #F9F988 0%, #F6F677 100%);
+    border-bottom: 1px solid #F4F466;
+    font: normal 40px/1.5 "Segoe UI Light";
+    padding: 10px;
+}
+
+.button_class
+{
+    background-color: #F0F0F0;
+    border: 1px solid #E9E9E9;
+    border-radius: 2px;
+    padding: 5px 20px;
+    cursor: pointer;
+}
+
+.button_class:hover
+{
+    background-color: #3399CC;
+    border: 1px solid #2288AA;
+    color: #FFF;
+}
